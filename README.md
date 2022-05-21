@@ -1,24 +1,24 @@
-Ex-03EDA
+#Ex-03EDA
 
-AIM
+#AIM
 
 To perform EDA on the given data set.
 
-Explanation
+#Explanation
 
 The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
 
 
-ALGORITHM
+#ALGORITHM
 
-STEP 1
+#STEP 1
 
-STEP 2
+#STEP 2
 
-STEP 3
+#STEP 3
 
-STEP 4
+#STEP 4
 
-CODE
+#CODE
 
-OUPUT
+#OUPUT
